@@ -37,7 +37,7 @@ Facilitar a organização do guarda-roupa e auxiliar na escolha de combinações
 - Apresentação final
 
 ## 🔗 Repositório
-Link do GitHub: (adicionar após a criação do repositório)
+Link do GitHub: https://github.com/anasofia304/Dressy-.git
 
 ## 📌 Status do Projeto
 🚧 Em desenvolvimento.
