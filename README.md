@@ -22,9 +22,9 @@ Facilitar a organização do guarda-roupa e auxiliar na escolha de combinações
 - GitHub
 
 ## 👥 Integrantes
-- Licya
+- Lycia
 - Davi Cardoso 
-- Juliana
+- Julianna
 - Anna Karolina
 - Ana Sofia
 - Ryan Emanuel 
