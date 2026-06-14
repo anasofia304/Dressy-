@@ -1,4 +1,4 @@
-# 👗 Guarda-Roupa Digital
+# 👗 Dressy 
 
 ## 📖 Sobre o Projeto
 O Guarda-Roupa Digital é um aplicativo desenvolvido para ajudar os usuários a organizar suas roupas de forma prática e digital. O sistema permite cadastrar peças de roupa, armazenar informações em um banco de dados e visualizar todas as peças em um armário virtual.
